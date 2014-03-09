@@ -1,3 +1,13 @@
+"""
+
+    bmd
+    ---------------
+    Baidu 320k Music Downloader
+
+    :license: MIT, see LICENSE for more details.
+"""
+
+
 import argparse
 import glob
 import logging
