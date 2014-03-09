@@ -59,7 +59,7 @@ class Worker(threading.Thread):
 
 
 def music_info(songid):
-    """"
+    """
     Get music info from baidu music api
     """
     if isinstance(songid, list):
